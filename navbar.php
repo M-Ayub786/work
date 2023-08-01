@@ -103,7 +103,7 @@
                         <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
                         
                         <li class="dropdown">
-                            <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">SHOP</a>
+                            <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown">Products</a>
                             <ul class="dropdown-menu">
                     
                                 <li><a href="shop.php">Bridal</a></li>
@@ -112,10 +112,10 @@
                                 <li><a href="shop.php">Saree</a></li>
                             </ul>
                         </li>
-                            </ul>
+                            
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">SHOP</a>
+                            <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><b>Shop</b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="cart.php">Cart</a></li>
                                 <li><a href="checkout.php">Checkout</a></li>
@@ -124,8 +124,8 @@
                                 <li><a href="shop-detail.php">Shop Detail</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="service.php">Our Service</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="service.php"><b>Our Service</b></a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-us.php"><b>Contact Us</b></a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
